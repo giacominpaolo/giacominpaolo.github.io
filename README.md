@@ -1,7 +1,6 @@
 <html>
 <head>
-
-
+<script type="text/javascript" id="cookiebanner" src="https://cdn.jsdelivr.net/gh/dobarkod/cookie-banner@1.2.2/dist/cookiebanner.min.js"></script>
 </head>
 <body>
 <h1>SONDAGGIO INGEGNERIA </h1>

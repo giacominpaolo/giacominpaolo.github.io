@@ -39,6 +39,18 @@ border-color: black;
 border-width: medium;
 border-radius: 5px;
 }
+.i{
+  display: flex;
+  justify-content: center; 
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.i {
+  width: 200px;
+  height: auto; 
+  border: 1px solid #ccc; 
+}
 form
 {
 	width: 90%;
